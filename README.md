@@ -1,6 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+This is a simple example of using reactjs router for a single page application.
+Main.js will show you how to add new pages. This example is based on https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm
+
 ## Available Scripts
+
+
 
 In the project directory, you can run:
 
